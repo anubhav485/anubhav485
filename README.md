@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anubhav chauhan
-- 👀 I’m interested a certified ethical hacker, csfpc and im interested in pentesting app development and crptography
+- 👀 I’m a certified ethical hacker, csfpc and im interested in pentesting app development and crptography
 - 🌱 I’m currently learning assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: darkweb channel cybog hackers
